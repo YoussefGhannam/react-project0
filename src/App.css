@@ -1,0 +1,15 @@
+* {
+    padding:0;
+    margin:0;
+}
+.active {
+    
+    
+}
+nav {
+    color:white;
+    background-image: linear-gradient(to left bottom, #5b06e5, #4b2fee, #3a43f5, #2454fb, #0062ff);
+}
+ul li .nav-link {
+    color:white;
+} 
